@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rosco-y/rosco-y.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Rosco-y GitHub Pages
+<Italic>I don't think html works in a markdown page.</Italic>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
